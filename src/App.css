@@ -1,0 +1,13 @@
+.card{
+  text-align: center;
+  background-color: orange;
+  border-radius: 3em;
+  color: white;
+  
+}
+
+.App{
+  display: flex;
+  justify-content: space-evenly;
+}
+
